@@ -51,7 +51,10 @@ $line1 = 'line1';
 $line2 = 'line2';
 $line3 = 'line3';
 
+
+
 //8
 $line = $line1 . $line2 . $line3;
 var_dump($line);
 
+?>
