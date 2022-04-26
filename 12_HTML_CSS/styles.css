@@ -1,0 +1,19 @@
+.red {
+    color: rgb(255, 0, 0);
+}
+
+body {
+    padding: 0 40px;
+}
+
+#size {
+    font-size: 16px;
+}
+
+p {
+    line-height: 20px;
+}
+
+p:nth-child(2n+1) {
+    background-color: #dddddd;
+}
